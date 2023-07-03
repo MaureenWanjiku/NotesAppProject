@@ -9,6 +9,6 @@ Update the title or content of a note
 Delete a note
 
 Technologies used:
-  HTML
-  CSS
-  Vanilla JavaScript
+  - HTML
+  - CSS
+  - Vanilla JavaScript
